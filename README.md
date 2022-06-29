@@ -17,7 +17,7 @@ This project is created to practice Test Driven Development(TDD) in JavaScript u
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>  &emsp;   <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Babel_Logo.svg" alt="babel" width="50" height="50"/> </a>  &emsp;   <a href="https://jestjs.io/" target="_blank" rel="noreferrer"> <img src="https://jestjs.io/img/jest.png" alt="jest" width="50" height="50"/> </a>
 
 
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"> <img style="margin-top:40px;" src="https://raw.githubusercontent.com/webpack/media/master/logo/logo-on-white-bg.svg" alt="webpack" width="180" height="100"/> </a>  &emsp;   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img style="margin-top:20px;" src="https://raw.githubusercontent.com/npm/logos/master/npm%20logo/npm-logo-red.svg" alt="npm" width="120" height="70"/> </a>
+<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"> <img style="margin-top:40px;" src="https://raw.githubusercontent.com/webpack/media/master/logo/logo-on-dark-bg.svg" alt="webpack" width="180" height="100"/> </a>  &emsp;   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img style="margin-top:20px;" src="https://raw.githubusercontent.com/npm/logos/master/npm%20logo/npm-logo-red.svg" alt="npm" width="120" height="70"/> </a>
 
 
 ## Includes the following features/components:
@@ -60,7 +60,7 @@ Run Dev Server (Port 5500)
 	- [Using Webpack with Jest](https://jestjs.io/docs/webpack)
 	- [Setup and Teardown](https://jestjs.io/docs/setup-teardown)
 	- [Mock Functions](https://jestjs.io/docs/mock-functions)
-	
+
 4. Others
 	- [What is a Caesar Cipher](http://practicalcryptography.com/ciphers/caesar-cipher/)
 	- [What are Pure Functions](https://medium.com/@jamesjefferyuk/javascript-what-are-pure-functions-4d4d5392d49c)
