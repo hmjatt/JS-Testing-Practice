@@ -45,13 +45,29 @@ Run Dev Server (Port 5500)
 ### Links to content that helped me with this project
 
 1. The Odin Project
-
+	- [Testing Basics](https://www.theodinproject.com/lessons/node-path-javascript-testing-basics)
+	- [Project: Testing Practice](https://www.theodinproject.com/lessons/node-path-javascript-testing-practice)
+	- [More Testing](https://www.theodinproject.com/lessons/node-path-javascript-more-testing)
 
 2. YouTube
+	- [Fun Fun Function](https://www.youtube.com/playlist?list=PL0zVEGEvSaeF_zoW9o66wa_UCNE3a7BEr)
+	- [Magic Tricks of Testing](https://www.youtube.com/watch?v=URSWYvyc42M)
 
 3. Jest
+	- [Documentation](https://jestjs.io/docs/getting-started)
+	- [Matchers](https://jestjs.io/docs/using-matchers)
+	- [Using Babel with Jest](https://jestjs.io/docs/getting-started#using-babel)
+	- [Using Webpack with Jest](https://jestjs.io/docs/webpack)
+	- [Setup and Teardown](https://jestjs.io/docs/setup-teardown)
+	- [Mock Functions](https://jestjs.io/docs/mock-functions)
+	
+4. Others
+	- [What is a Caesar Cipher](http://practicalcryptography.com/ciphers/caesar-cipher/)
+	- [What are Pure Functions](https://medium.com/@jamesjefferyuk/javascript-what-are-pure-functions-4d4d5392d49c)
+	- [Measuring Software Quality](https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4)
+	- [Too Much Mocking is Bad](https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a)
 
-
+	
 
 	
 ## Notes/Remarks
