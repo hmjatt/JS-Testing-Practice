@@ -20,7 +20,6 @@ This project is created to practice Test Driven Development(TDD) in JavaScript u
 ## Includes the following features/components:
 
 	- Jest
-    - Source Maps
 	- Babel Loader
 	- Webpack
 
