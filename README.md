@@ -34,7 +34,7 @@ Run Dev Server (Port 5500)
     ```
 
     ```
-    npx webpack --watch // Clientside
+    npm test
 
     ```
 
