@@ -15,7 +15,7 @@
   \**********************/
 /***/ (() => {
 
-eval("function component() {\r\n\tconst element = document.createElement('div');\r\n \r\n   // Lodash, currently included via a script, is required for this line to work\r\n   // Lodash, now imported by this script\r\n\telement.innerHTML = _.join(['Hello', 'webpack'], ' ');\r\n \r\n\treturn element;\r\n  }\r\n \r\n  document.body.appendChild(component());\n\n//# sourceURL=webpack://js-testing-practice/./src/index.js?");
+eval("function component() {\r\n\tconst element = document.createElement('div');\r\n\r\n\telement.innerHTML = _.join(['Hello', 'webpack'], ' ');\r\n \r\n\treturn element;\r\n  }\r\n \r\n  document.body.appendChild(component());\n\n//# sourceURL=webpack://js-testing-practice/./src/index.js?");
 
 /***/ })
 
