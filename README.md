@@ -70,7 +70,9 @@ Run Dev Server (Port 5500)
 
 `calculator` works with 2 numbers for now.
 
-`caesarCipher` works for letters `a-z, A-Z`, converts it to lowercase and ignores punctuation.
+`caesarCipher` works for letters `a-z, A-Z`, converts it to lowercase, ignores punctuation and numbers.
+
+`analyzeArray` is divided into helper functions/methods that return values like `average`, `min`, `max`, `length`. Values from these are used in the `returnedObject` function/method to return an Object using values from helper functions. Tests are run against `returnedObject` function/method. It is assumed that `inputArray` contains only numbers.
 
 ## Future Changes/Fixes
 
