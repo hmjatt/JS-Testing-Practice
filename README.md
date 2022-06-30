@@ -68,6 +68,9 @@ Run Dev Server (Port 5500)
 	
 ## Notes/Remarks
 
+`calculator` works with 2 numbers for now.
+
+`caesarCipher` works for lowercase letters `a-z` and ignores punctuation.
 
 ## Future Changes/Fixes
 
