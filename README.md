@@ -69,7 +69,7 @@ Run Dev Server (Port 5500)
 
 `caesarCipher` works for letters `a-z, A-Z`, converts it to lowercase, ignores punctuation and numbers.
 
-`analyzeArray` is divided into helper functions/methods that return values like `average`, `min`, `max`, `length`. Values from these are used in the `returnedObject` function/method to return an Object using values from helper functions. Tests are run against `returnedObject` function/method. It is assumed that `inputArray` contains only numbers.
+`analyzeArray` is divided into helper functions that return values like `average`, `min`, `max`, `length`. Values from these helper functions are used in the `returnedObject` method to return an Object and we run our tests against the Object returned by this method. It is assumed that `inputArray` contains only numbers.
 
 ## Future Changes/Fixes
 
