@@ -5,7 +5,7 @@ Testing JavaScript code with Jest
 # Weather-App
 
 
-<!-- ![This is an image]() -->
+![This is an image](https://github.com/hmjatt/JS-Testing-Practice/blob/main/src/screen/Js-testing.jpg)
 
 
 This project is created to practice Test Driven Development(TDD) in JavaScript using Jest(JS Testing Framework). Also making use of Babel and Webpack in this project :milky_way: Feel free to reach me at [Twitter](https://twitter.com/hmjatt/) :wave:
