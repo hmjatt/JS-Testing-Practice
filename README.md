@@ -2,9 +2,6 @@
 Testing JavaScript code with Jest
 
 
-# Weather-App
-
-
 ![This is an image](https://github.com/hmjatt/JS-Testing-Practice/blob/main/src/screen/Js-testing.jpg)
 
 
